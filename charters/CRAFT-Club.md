@@ -26,3 +26,14 @@ CRAFT meetings are held weekly. CRAFT club meetings are rather informal and you 
 ## Amendment Procedures
 
 In order to amend club procedures, the amendment in question must be presented to all active club members and pass by a majority vote. The new procedure will take place immediately unless otherwise specified.
+
+## Code of Conduct
+In the interest of fostering an open and welcoming environment, we pledge to make participation in our club a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. That means:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
+- Taking action whenever these principles are not being followed
+
+This code of conduct has been borrowed in part from the Contributor Covenant and is licensed under CC BY 4.0 by Coraline Ada Ehmke.
